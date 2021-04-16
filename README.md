@@ -27,7 +27,7 @@ Models I have implemented are:
 | Transformer (Attention is all you need) 	| Pytorch 	| Not available 	|
 
 ## Contributor
-Raian Rahman 
-Dept. of Computer Science and Engineering 
-Islamic University of Technology 
+Raian Rahman <br>
+Dept. of Computer Science and Engineering <br> 
+Islamic University of Technology <br>
 Dhaka, Bangladesh

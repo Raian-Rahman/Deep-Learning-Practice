@@ -10,11 +10,23 @@ As we know, the best way to learn a technique is to apply that technique on a da
 ModelName_DatasetName.FileForamt
 ```
 Datasets I have practiced:
-| Model Name                                            	| Dataset  	| Library 	| Domain          	|
-|-------------------------------------------------------	|----------	|---------	|-----------------	|
-| Convolutional Neural Network                          	| CIFER 10 	| Pytorch 	| Computer Vision 	|
-| Convolutional Neural Network with Residual Connection 	| CIFER 10 	| Pytorch 	| Computer Vision 	|
-| Resnet 50 Pretrained Model                            	| CIFER 10 	| Pytorch 	| Computer Vision 	|
+| Model Name | Dataset | Library | Domain |
+| ---------- | ------- | ------- | ------ |
+|            |         |         |        |
+| ------------------------------------------------------- | ---------- | --------- | ----------------- |
+| ------------------------------------------------------- | ---------- | --------- | ----------------- |
+|                                                         |            |           |                   |
+| Convolutional Neural Network | CIFER 10 | Pytorch | Computer Vision |
+| ---------------------------- | -------- | ------- | --------------- |
+|                              |          |         |                 |
+| Convolutional Neural Network with Residual Connection | CIFER 10 | Pytorch | Computer Vision |
+| ----------------------------------------------------- | -------- | ------- | --------------- |
+|                                                       |          |         |                 |
+| Resnet 50 Pretrained Model         | CIFER 10 | Pytorch | Computer Vision             |
+| ---------------------------------- | -------- | ------- | --------------------------- |
+| SST2 Dataset with Huggingface BERT | SST2     | Pytorch | Natural Language Processing |
+
+
 
 ### Models
 As we know, there are a lot of advanced models used in deep learning. I have tried to implement these models from scratch. There model itself can not visualize a lot of things. But, i did those to understand how the internal codes work. Typical naming convention are:

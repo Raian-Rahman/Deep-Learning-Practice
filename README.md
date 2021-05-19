@@ -12,8 +12,6 @@ ModelName_DatasetName.FileForamt
 Datasets I have practiced:
 | Model Name | Dataset | Library | Domain |
 | ---------- | ------- | ------- | ------ |
-| ------------------------------------------------------- | ---------- | --------- | ----------------- |
-|                                                         |            |           |                   |
 | Convolutional Neural Network | CIFER 10 | Pytorch | Computer Vision |
 | Convolutional Neural Network with Residual Connection | CIFER 10 | Pytorch | Computer Vision |
 | Resnet 50 Pretrained Model         | CIFER 10 | Pytorch | Computer Vision             |

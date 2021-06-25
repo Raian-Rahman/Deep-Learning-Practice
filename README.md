@@ -16,6 +16,7 @@ Datasets I have practiced:
 | Convolutional Neural Network with Residual Connection | CIFER 10 | Pytorch | Computer Vision |
 | Resnet 50 Pretrained Model         | CIFER 10 | Pytorch | Computer Vision             |
 | SST2 Dataset with Huggingface BERT | SST2     | Pytorch | Natural Language Processing |
+| Text Summarization with Huggingface T5 Transformer | News Summarization | Pytorch, Pytorch Lightning | Natural Language Processing |
 
 
 
